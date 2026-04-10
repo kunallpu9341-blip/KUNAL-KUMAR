@@ -1,4 +1,4 @@
-# kunallpu9341-blip
+# KUNAL KUMAR
 <h1 align="center">Hi 👋, I'm Kunal Kumar</h1>
 <h3 align="center">
 🎓 B.Tech CSE Student at Lovely Professional University (2025–2029) | 💻 Aspiring Software Developer | 🚀 Tech Enthusiast
