@@ -113,6 +113,6 @@
 ---
 
 ## 📫 Connect With Me
-- 🔗 LinkedIn:https://www.linkedin.com/in/kunal-kumar-38729737b?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- 🔗 LinkedIn:https://www.linkedin.com/in/kunal-kumar-38729737b
 - 📧 Email: kunalkrps177@gmail.com
 - 🐙 GitHub: https://github.com/kunallpu9341-blip
