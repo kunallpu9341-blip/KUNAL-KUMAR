@@ -8,7 +8,7 @@
   <a href="https://github.com/Kunalkumar93">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="">
+  <a href="linkedin.com/in/kunal-kumar-38729737b">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:kunalkrps177@gmail.com">
@@ -113,6 +113,6 @@
 ---
 
 ## 📫 Connect With Me
-- 🔗 LinkedIn: https://www.linkedin.com/in/your-linkedin-id
+- 🔗 LinkedIn:linkedin.com/in/kunal-kumar-38729737b
 - 📧 Email: kunalkrps177@gmail.com
 - 🐙 GitHub: https://github.com/kunallpu9341-blip
